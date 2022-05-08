@@ -14,3 +14,5 @@ bakeTemp: 420 mixingInstructions: function() {
 return "Add " this.firstIngredient + " to " + this.secondIngredient + " and stir with " + this.thirdIngredient + " and bake at " + bakeTemp + " for " + bakeTime + " minutes." ; }
 }; This is an example of how computers “move” data around to display useful results
 to their human users. In Ethereum, you can write functions that send money around, just as this little object’s method called mixingInstructions, when executed, can display the mixing instructions for a cake.
+
+
